@@ -15,6 +15,8 @@
         public const string ApplicationEvent = "ApplicationEvent";
         public const string ApplicationFunction = "ApplicationFunction";
         public const string Requirement = "Requirement";
+        public const string TechnologyInterface = "TechnologyInterface";
+        public const string SystemSoftware = "SystemSoftware";        
     }
 
     public static class RelationshipConstants
