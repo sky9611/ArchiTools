@@ -16,7 +16,8 @@
         public const string ApplicationFunction = "ApplicationFunction";
         public const string Requirement = "Requirement";
         public const string TechnologyInterface = "TechnologyInterface";
-        public const string SystemSoftware = "SystemSoftware";        
+        public const string SystemSoftware = "SystemSoftware";
+        public const string TechnologyEvent = "TechnologyEvent";
     }
 
     public static class RelationshipConstants
@@ -31,6 +32,7 @@
         public const string Serving = "Serving";
         public const string Access = "Access";
         public const string Triggering = "Triggering";
+        public const string Influence = "Influence";
     }
 
     public static class PropertyConstants
